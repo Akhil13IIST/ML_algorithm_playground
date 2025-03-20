@@ -34,7 +34,7 @@ ML_Algorithm_Playground/
 ## How to Use
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ML_Algorithm_Playground.git
+   git clone https://github.com/AKHIL13IIST/ML_Algorithm_Playground.git
    cd ML_Algorithm_Playground
    ```
 2. **Create a virtual environment**
